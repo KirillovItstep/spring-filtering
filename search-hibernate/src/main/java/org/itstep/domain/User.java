@@ -2,7 +2,6 @@ package org.itstep.domain;
 
 import lombok.Getter;
 import lombok.Setter;
-
 import org.hibernate.search.annotations.*;
 import javax.persistence.Entity;
 import javax.persistence.Id;

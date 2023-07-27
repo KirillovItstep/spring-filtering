@@ -10,6 +10,4 @@ public class HibernateSearchApplication {
         SpringApplication.run(HibernateSearchApplication.class, args);
     }
 
-
-
 }
